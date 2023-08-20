@@ -1,0 +1,26 @@
+{
+  "name": "food_ordering_app",
+  "version": "1.0.0",
+  "description": "This app is for providing a better user interface for ordering the authentic uttarakhand cuisines",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "food_ordering",
+    "react",
+    "namaste_react"
+  ],
+  "author": "Sumit Negi",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.10.1"
+  }
+}

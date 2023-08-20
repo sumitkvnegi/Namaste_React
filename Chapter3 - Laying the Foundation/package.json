@@ -1,0 +1,33 @@
+{
+  "name": "igniting_out_app",
+  "version": "1.0.0",
+  "description": "initializing react app using parcel",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitkvnegi/Namaste_React.git"
+  },
+  "keywords": [
+    "react",
+    "namaste_react",
+    "parcel"
+  ],
+  "author": "Sumit Negi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumitkvnegi/Namaste_React/issues"
+  },
+  "homepage": "https://github.com/sumitkvnegi/Namaste_React#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
