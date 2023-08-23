@@ -10,6 +10,8 @@
 
 ### 📙 [*Chapter 04 - Talk is Cheap, show me the code*](https://github.com/chetannada/Namaste-React/blob/main/Chapter%2004%20-%20Talk%20is%20Cheap%2C%20show%20me%20the%20code)
 
+### 📙 [*Chapter 05 -* ](https://github.com/chetannada/Namaste-React/blob/main/Chapter%2004%20-%20Talk%20is%20Cheap%2C%20show%20me%20the%20code)[Let&#39;s Get Hooked](https://namaste-react-six.vercel.app/)
+
 ## 🚀 Clone this Repository
 
 You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
@@ -43,4 +45,3 @@ This application should now be running on `localhost`. If you want to Fork repos
 Thanks for supporting me throughout the course 🗝:
 
 [![Saloni Sundli](https://avatars.githubusercontent.com/u/93816107?v=4)**Saloni Sundli**](https://github.com/saloni-sundli)
-
