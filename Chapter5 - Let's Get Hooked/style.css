@@ -47,7 +47,7 @@ body::-webkit-scrollbar {
     height: 200px;
     border: 1px solid rgba(0, 0, 0, 0.062);
     padding: 1px;
-    border-radius: 16px 16px 0px 0px;
+    border-radius: 16px;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -143,8 +143,8 @@ body::-webkit-scrollbar {
 
 .res-container {
     display: flex;
-    justify-content: space-between;
-    gap: 6px;
+    justify-content: center;
+    gap: 1rem;
     flex-wrap: wrap;
     padding: 14px 16px;
 }
@@ -200,6 +200,10 @@ body::-webkit-scrollbar {
     display: flex;
     align-items: center;
     border:1px solid #333;
+}
+
+.filter-btn{
+    border-radius: 50%;
 }
 
 .search-btn, .search-input{
