@@ -11,7 +11,7 @@ const Footer = () => {
         </a>
         <FaRegCopyright/>2023
         <strong>
-          Food<span>Fire</span>
+          Satvik
         </strong>
       </div>
     );
