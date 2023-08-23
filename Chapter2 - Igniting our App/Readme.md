@@ -52,7 +52,6 @@ npm install -D parcel
 
 `-D` is used for development and as a development dependency.
 
-
 **Parcel Commands :**
 
 For development build:
@@ -66,7 +65,6 @@ For production build :
 ```
 npx parcel build <entry_point> 
 ```
-
 
 ## .parcel-cache 🗳
 
@@ -95,7 +93,6 @@ instead of just,
 ```
 npm install --save
 ```
-
 
 ## Tree Shaking 🌲
 
@@ -167,9 +164,8 @@ For example  in `package.json` file:
 * **^** : `Compatible with version`, will update you to all future minor/patch versions, without incrementing the major version.
 
 > If none of them is present, that means only the version specified in `package.json` file is used in the development.
->
 
-## Why should not modify package.json? ❌
+## Why should not modify package-lock.json? ❌
 
 `package-lock.json` file contains the information about the dependencies and their versions used in the project. Deleting it would cause dependencies issues in the production environment. So don't modify it, It's being handled automatically by NPM.
 
